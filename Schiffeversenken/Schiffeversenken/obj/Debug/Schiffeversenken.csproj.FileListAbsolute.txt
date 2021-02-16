@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Schiffeversenken\Schiffeversenken\bin\Debug\Schiffeversenken.exe.config
+C:\Users\user\Desktop\Schiffeversenken\Schiffeversenken\bin\Debug\Schiffeversenken.exe
+C:\Users\user\Desktop\Schiffeversenken\Schiffeversenken\bin\Debug\Schiffeversenken.pdb
+C:\Users\user\Desktop\Schiffeversenken\Schiffeversenken\obj\Debug\Schiffeversenken.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Schiffeversenken\Schiffeversenken\obj\Debug\Schiffeversenken.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Schiffeversenken\Schiffeversenken\obj\Debug\Schiffeversenken.exe
+C:\Users\user\Desktop\Schiffeversenken\Schiffeversenken\obj\Debug\Schiffeversenken.pdb
